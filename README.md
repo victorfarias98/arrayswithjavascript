@@ -46,6 +46,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## :link: Referências e Agradecimentos
 
-[dev.to](https://dev.to/ibrahima92/15-must-know-javascript-array-methods-in-2020-1kd8)
-[readme.generator](https://readme-maker.herokuapp.com/)
-[cangaceiro](http://cangaceirojavascript.com.br/map-flatmap-entendendo-diferenca-na-pratica/)
+- [dev.to](https://dev.to/ibrahima92/15-must-know-javascript-array-methods-in-2020-1kd8) <br>
+- [readme.generator](https://readme-maker.herokuapp.com/) <br>
+- [cangaceiro](http://cangaceirojavascript.com.br/map-flatmap-entendendo-diferenca-na-pratica/) <br>
