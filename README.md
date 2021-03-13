@@ -11,6 +11,7 @@ ___
   <a href="#seedling-requisitos-mínimos">Requisitos</a>&nbsp;|&nbsp;
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
   <a href="#link-como-contribuir">Como Contribuir</a>&nbsp;|&nbsp;
+  <a href="#link-referências-e-agradecimentos">Referências e Agradecimentos</a>&nbsp;|&nbsp;
 </h3>
 
 ___
@@ -45,6 +46,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## :link: Referências e Agradecimentos
 
-[dev.to] (https://dev.to/ibrahima92/15-must-know-javascript-array-methods-in-2020-1kd8)
-[readme.generator] (https://readme-maker.herokuapp.com/)
-[cangaceiro] (http://cangaceirojavascript.com.br/map-flatmap-entendendo-diferenca-na-pratica/)
+[dev.to](https://dev.to/ibrahima92/15-must-know-javascript-array-methods-in-2020-1kd8)
+[readme.generator](https://readme-maker.herokuapp.com/)
+[cangaceiro](http://cangaceirojavascript.com.br/map-flatmap-entendendo-diferenca-na-pratica/)
