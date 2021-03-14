@@ -17,7 +17,7 @@ const exampleArray = [
 
 const myElement = exampleArray.find(element => element.title === 'My Element')
 console.log(myElement)
-//-------> Output : {id: 3, title: 'My Element'}
+//-------> Output : {id: 2, title: 'My Element'}
 
 const undefinedElement = exampleArray.find(element => element.title === 'Sasuke Uchiha')
 console.log(undefinedElement)
