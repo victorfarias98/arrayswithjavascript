@@ -1,4 +1,4 @@
-<h2 align="center">Manipulação de Arrays em JavaScript</h2>
+<h2 align="center">Manipulação de Arrays e Objetos em JavaScript</h2>
 
 ___
 
@@ -19,19 +19,19 @@ ___
 
 ## :information_source: Sobre
 
-Uma série de manipulações em Arrays, separados por pastas com suas definições e exemplos
+Uma série de manipulações em Arrays e Objetos, separados por pastas com suas definições e exemplos.
 
 ## :interrobang: Motivo
 
-Aprender e ensinar manipulações de Arrays a partir de exemplos 'práticos'
+Aprender e ensinar manipulações de Arrays a partir de exemplos "práticos".
 
 ## :seedling: Requisitos Mínimos
 
-Console do Chrome já serve
+Console do Chrome já serve.
 
 ## :rocket: Tecnologias Utilizadas 
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - JavaScript
 
